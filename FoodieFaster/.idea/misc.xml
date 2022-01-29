@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_foodcategory.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_garlic_bread.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_lava_cake.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_loginpage.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_order.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_orderlist.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_pasta.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_pizza.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_sampleorder.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_sides.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_signinbyphone.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/categorylist.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/connection_checker.xml" value="0.1796875" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/fragment_bottomsheet.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/Ushmi/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/pizzalist.xml" value="0.1" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_beaverage.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_garlic_bread.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_lava_cake.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_order.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_orderlist.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_pasta.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_pizza.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_sampleorder.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_sides.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/activity_yourorders.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/order_sample.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/radix/AndroidStudioProjects/FoodieFaster/app/src/main/res/layout/pizzalist.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

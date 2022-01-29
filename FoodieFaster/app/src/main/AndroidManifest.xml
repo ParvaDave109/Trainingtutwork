@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.foodiefaster">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FoodieFasterblack">
+        <activity android:name=".orderplacedanima" />
+        <activity android:name=".yourorders" />
+        <activity android:name=".sampleorder" />
+        <activity android:name=".orderlist" />
+        <activity android:name=".OrderActivity" />
+        <activity android:name=".beaverage" />
+        <activity android:name=".lava_cake" />
+        <activity android:name=".sides" />
+        <activity android:name=".garlic_bread" />
+        <activity android:name=".pasta" />
+        <activity android:name=".pizza" />
+        <activity android:name=".foodcategory" />
+        <activity android:name=".register" />
+        <activity android:name=".login" />
+        <activity android:name=".loginpage" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

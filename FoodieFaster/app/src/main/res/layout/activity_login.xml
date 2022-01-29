@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="26dp"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:src="@drawable/food_logo"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:fontFamily="cursive"
+            android:gravity="center"
+            android:text=" Foodie Faster"
+            android:textColor="@color/gold"
+            android:textSize="32dp"
+            android:textStyle="bold">
+
+        </TextView>
+        <EditText
+            android:id="@+id/username2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="26dp"
+            android:padding="5dp"
+            android:background="@drawable/custom_border"
+            android:hint="USERNAME"
+            android:gravity="center"
+            android:fontFamily="monospace"
+
+
+            />
+        <EditText
+            android:id="@+id/password2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="26dp"
+            android:layout_marginLeft="26dp"
+            android:padding="5dp"
+            android:background="@drawable/custom_border"
+            android:hint="PASSWORD"
+            android:gravity="center"
+            android:fontFamily="monospace"
+
+
+            />
+
+        <Button
+            android:id="@+id/button_for_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="26dp"
+            android:layout_marginRight="26dp"
+            android:background="@drawable/custom_border"
+            android:backgroundTint="@color/yellow"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="LOGIN"
+            android:textColor="@color/black"
+            app:backgroundTint="@color/yellow" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- - - - - - - - - OR WITH - - - - - - - - -"
+            android:textColor="@color/black"
+            android:layout_margin="5dp"
+            android:padding="15dp"
+            android:gravity="center"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+                android:background="@color/blue"
+                android:drawableLeft="@drawable/facebook"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="Facebook"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+                android:background="@color/red"
+                android:drawableLeft="@drawable/google"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="Google"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
